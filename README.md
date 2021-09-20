@@ -12,8 +12,11 @@ Please acknowledge the use of this software in any publications by citing this p
 
 
 Notes:
+
 (1) Struble, W.T., Roering, J.J., 2021. Hilltop curvature as a proxy for erosion rate: Wavelets enable rapid computation and reveal systematic underestimation. Physical: Landscape Evolution: modelling and field studies. https://doi.org/10.5194/esurf-2021-40
+
 (2) Schwanghart, W., Scherler, D., 2014. Short Communication: TopoToolbox 2 – MATLAB-based software for topographic analysis and modeling in Earth surface sciences. Earth Surf. Dynam. 2, 1–7. https://doi.org/10.5194/esurf-2-1-2014
+
 (3) Roering, J.J., Perron, J.T., Kirchner, J.W., 2007. Functional relationships between denudation and hillslope form and relief. Earth and Planetary Science Letters 264, 245–258. https://doi.org/10.1016/j.epsl.2007.09.035
 
 

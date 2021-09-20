@@ -1,4 +1,4 @@
-# HilltopCurvature
+# HilltopCurvature_Wavelets
  
 These MATLAB scripts calculate hilltop curvature, using both 2D continuous wavelet transforms and 2D polynomial functions, as described in Struble and Roering (2021)<sup><b><i>(1)</i></b></sup>.
 

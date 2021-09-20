@@ -8,8 +8,7 @@ The script entitled Sythetic.m constructs syntehtic hillslopes using the functio
 
 Please acknowledge the use of this software in any publications by citing this paper (Struble and Roering, 2021) and software release.
 
-
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5518069.svg)](https://doi.org/10.5281/zenodo.5518069)
 
 Notes:
 
